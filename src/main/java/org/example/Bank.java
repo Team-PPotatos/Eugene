@@ -13,8 +13,6 @@ public class Bank {
             }
         } return -1;
     }
-    // (check머시기로 부터 받은 인덱스가 -1인지 아닌지를 확인 후 계좌가 존재하는지 아닌지 리턴),
-    //public void findAccount() {}
     public void changePassword() {
         Scanner scan = new Scanner(System.in);
 
