@@ -45,7 +45,7 @@
 14. 다른 번호를 입력했을 경우, 없는 업무를 선택했다는 메시지와 함께 다시 메뉴를 띄웁니다.
 ```
 
-즉, 정말 간단하게 유저가 `main`, 은행이 `Controller` 서비스가 `Service` 계층이라고 생각하시면 됩니다.
+즉, 맞지는 않지만 그냥 간단하게 유저가 `main`, 은행이 `Controller` 서비스가 `Service` 라고 생각하시면 됩니다.
 
 ![img.png](..%2F..%2F..%2F..%2F..%2F..%2FBank%2FBank%2Fsrc%2Fmain%2Fjava%2Forg%2Fexample%2Fimg.png)
 
